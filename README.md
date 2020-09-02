@@ -6,7 +6,7 @@
 - 📫 How to reach me **guptamayank7199@gmail.com**
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" hspace="10" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/></p><p>
