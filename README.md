@@ -6,12 +6,12 @@
 - 📫 How to reach me **guptamayank7199@gmail.com**
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/></p><p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms7199&layout=compact&hide=html" alt="ms7199" /></p>
-</br>
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms7199&show_icons=true" alt="ms7199" /></p>
 
 <p align="center">
