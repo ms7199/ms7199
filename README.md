@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Gupta</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/guptamayank7199/">Mayank Gupta</a></h1>
 <h3 align="center">I work in the fields of Data science and Machine learning.</h3>
 
 
