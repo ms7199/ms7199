@@ -1,16 +1,39 @@
-<h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">I am a Data Science and Machine Learning aspirant..</h3>
-
-- 🌱 I’m currently learning **Machine learning and Deep Learning**
-
-- 📫 How to reach me **guptamayank7199@gmail.com**
+<h1 align="center">Hi 👋, I'm Mayank Gupta</a></h1>
+<h3 align="center">A passionate Data Scienctist and Machine Learning Engineer from Gujarat India &#127470;&#127475</h3>
 
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- ➼I am an extrovert person who is always keen to meet new people, explore and build the community.
+Apart from that, I am in Data Science, Machine learning, and all the data-related fields by profession.
+
+- ➼In Technical Stack, Python(with all the major libraries of Data Science like Pandas, NumPy, MatPlotLib, SeaBorn, Scikit-Learn, TensorFlow, and many more), Tableau (Visualization tool), SQL, etc.
+
+- ➼In Non-Technical Stack, Leadership with the engaging role, because it is all about for the team not just for the individual growth, keen learner, and public speaking. 
+
+- ➼My main is to contribute to the open-source community and make a great positive difference in the TechEducation industry.
+
+- ➼Connect with me for more updates and guidance.
+
+- ➼The motto of my life is "Let's grow together."
+
+- ➼Please feel free to reach me at guptamayank7199@gmail.com
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/mayank10273540" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/mayank10273540" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-gupta-a79555137/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mayank-gupta-a79555137/" height="30" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007805563069" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007805563069" height="30" width="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/m.s._gupta07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/m.s._gupta07/" height="30" width="30" /></a>
-<a href="https://medium.com/@guptamayank7199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@guptamayank7199" height="30" width="30" /></a>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/guptamayank7199/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ms7199">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/9546688/mayank-gupta?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/msgupta_07">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+      </div>
+
 </p>
