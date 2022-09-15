@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Gupta</a></h1>
-<h3 align="center">A passionate Data Scienctist and Machine Learning Engineer from Gujarat India &#127470;&#127475</h3>
+<h3 align="center">I work in the fields of Data science and Machine learning.</h3>
 
 
 <a target="_blank" align="center">
