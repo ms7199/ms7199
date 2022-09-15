@@ -6,20 +6,20 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- ➼I am an extrovert person who is always keen to meet new people, explore and build the community.
+- I am an extrovert person who is always keen to meet new people, explore and build the community.
 Apart from that, I am in Data Science, Machine learning, and all the data-related fields by profession.
 
-- ➼In Technical Stack, Python(with all the major libraries of Data Science like Pandas, NumPy, MatPlotLib, SeaBorn, Scikit-Learn, TensorFlow, and many more), Tableau (Visualization tool), SQL, etc.
+- In Technical Stack, Python(with all the major libraries of Data Science like Pandas, NumPy, MatPlotLib, SeaBorn, Scikit-Learn, TensorFlow, and many more), Tableau (Visualization tool), SQL, etc.
 
-- ➼In Non-Technical Stack, Leadership with the engaging role, because it is all about for the team not just for the individual growth, keen learner, and public speaking. 
+- In Non-Technical Stack, Leadership with the engaging role, because it is all about for the team not just for the individual growth, keen learner, and public speaking. 
 
-- ➼My main is to contribute to the open-source community and make a great positive difference in the TechEducation industry.
+- My main is to contribute to the open-source community and make a great positive difference in the TechEducation industry.
 
-- ➼Connect with me for more updates and guidance.
+- Connect with me for more updates and guidance.
 
-- ➼The motto of my life is "Let's grow together."
+- The motto of my life is "Let's grow together."
 
-- ➼Please feel free to reach me at guptamayank7199@gmail.com
+- Please feel free to reach me at guptamayank7199@gmail.com
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
