@@ -5,14 +5,7 @@
 
 - 📫 How to reach me **guptamayank7199@gmail.com**
 
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" hspace="20" width="60" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" hspace="20" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" hspace="20" width="60" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" hspace="20" width="60" height="60"/></p><p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms7199&layout=compact&hide=html" alt="ms7199" /></p>
-<br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms7199&show_icons=true" alt="ms7199" /></p>
+
 
 <p align="center">
 <a href="https://twitter.com/https://twitter.com/mayank10273540" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/mayank10273540" height="30" width="30" /></a>
