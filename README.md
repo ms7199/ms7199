@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-🔥 **AI Enthusiast** who transforms data into intelligent solutions  
+🔥 **AI Developer** who transforms data into intelligent solutions  
 🌟 **Community Builder** passionate about open-source contributions  
 💡 **Innovation Driver** specializing in LLM integrations and RAG systems  
 🎤 **Tech Speaker** sharing knowledge and growing together  
@@ -75,9 +75,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms7199&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms7199&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -88,15 +85,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![PDF RAG Slack Bot](https://github-readme-stats.vercel.app/api/pin/?username=ms7199&repo=slack-pdf-chatbot&theme=radical)](https://github.com/ms7199/slack-pdf-chatbot)
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Grow Together
 
