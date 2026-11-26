@@ -1,116 +1,107 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mayank+Gupta!;Data+Scientist+%26+AI+Engineer;" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Mayank%20Gupta&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=GenAI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20MCP&descAlignY=60&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=I+build+GenAI+systems+that+work+in+production;RAG+%C2%B7+LangGraph+agents+%C2%B7+MCP+servers+%C2%B7+Guardrails;Currently+building+ctxbook+%F0%9F%A7%A0" alt="Typing SVG" /></a>
+
+<a href="https://www.linkedin.com/in/guptamayank7199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:guptamayank7199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/9546688/mayank-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://x.com/msgupta_07"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open_to-GenAI_%2F_AI_Engineer_roles-2ea44f?style=flat-square"/>
+
 </div>
 
-<h3 align="center"> AI Engineer & Data Scientist | Full-stack Developer | Building the Future with Gen AI & LLMs</h3>
+### Hi, I'm Mayank, a GenAI Engineer based in Gandhinagar, India 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" />
-</div>
+I build **production LLM systems**: RAG pipelines, tool-calling agents and MCP servers that plug AI into real business tools like SharePoint, Confluence and Outlook.
+I have **5+ years** of Python experience, from backends and APIs to ML and now GenAI. I also train developers and share what I learn on [LinkedIn](https://www.linkedin.com/in/guptamayank7199/).
 
 ---
 
-## 🎯 About Me
+## 🧠 Spotlight: ctxbook
 
-🔥 **AI Developer** who transforms data into intelligent solutions  
-🌟 **Community Builder** passionate about open-source contributions  
-💡 **Innovation Driver** specializing in LLM integrations and RAG systems  
-🎤 **Tech Speaker** sharing knowledge and growing together  
+> **One memory for all your AI tools.** Claude, Cursor and ChatGPT each forget what the others know.
+> **ctxbook** is an open-source MCP server that gives every MCP client the same shared, persistent memory.
 
-- 🔥 Currently working on **Gen AI applications** and **LLM-powered solutions**
-- 🔬 Exploring **LangChain**, **LangGraph**, and **GuardRails** for enterprise AI
-- 🌱 Building intelligent chatbots, RAG pipelines, and AI assistants
-- 🎯 **Mission**: Contributing to open-source AI community
-- 💬 **Philosophy**: *"Let's grow together"*
-- 📫 Reach me: **guptamayank7199@gmail.com**
+<!-- TODO: replace REPO_LINK; add a demo GIF here once it runs (docs/demo.gif) -->
+<p>
+  <a href="REPO_LINK"><img src="https://img.shields.io/badge/View_repo-ctxbook-181717?style=for-the-badge&logo=github"/></a>
+  <img src="https://img.shields.io/badge/status-building-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-FastMCP-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
----
+## 🚀 More Things I've Built
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔧 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-### 🎨 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/🌲_Pinecone-000000?style=for-the-badge)
-
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-### 💳 Payment & Integration
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-
-</div>
-
+| Project | Problem → What I built | Stack |
+|---|---|---|
+| 💼 **HRM Chatbot** <sub>(client work)</sub> | HR teams answer the same questions every day → an AI assistant that calls SharePoint, Confluence and Outlook as **MCP tools** | `LangChain` `MCP` `FastAPI` `AWS` |
+| 💬 **[Persistent Memory Assistant](REPO_LINK)** | Chatbots forget you between sessions → long- and short-term memory with scoring, pruning and semantic recall | `LangChain` `Groq` `Pinecone` `MongoDB` `Next.js` |
+| 📄 **[Doc Q&A](REPO_LINK)** | Reading long documents is slow → RAG that gives grounded answers and summaries | `RAG` `FAISS` `OpenAI` `FastAPI` |
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ms7199&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</div>
+## 🔭 Right Now
+
+- 🔨 **Building**: ctxbook, an open-source MCP memory server
+- 📚 **Learning**: LLM evals, agent reliability and guardrails
+- ✍️ **Writing**: real RAG lessons from production, on LinkedIn
+- 🤝 **Open to**: GenAI / AI Engineer roles (remote or hybrid)
 
 ---
 
+## 🛠️ Core Stack
 
-## 🤝 Let's Connect & Grow Together
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,pytorch,aws,docker,postgres,mongodb,redis,react,nextjs&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🌲_Pinecone-000000?style=for-the-badge"/>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/guptamayank7199/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ms7199" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://stackoverflow.com/users/9546688/mayank-gupta" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://twitter.com/msgupta_07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:guptamayank7199@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+<details>
+<summary><b>📦 Full toolbox (click to expand)</b></summary>
+
+<br/>
+
+| Area | Tools |
+|---|---|
+| **GenAI & LLMs** | OpenAI, Groq, LangChain, LangGraph, RAG, MCP / FastMCP, GuardRails, Hugging Face |
+| **Vector DBs** | Pinecone, FAISS |
+| **ML & DL** | PyTorch, TensorFlow, scikit-learn, Transformers (BERT, T5), spaCy, Sentence-Transformers, OpenCV |
+| **MLOps** | MLflow (tracking, registry), model versioning, evaluation gates, monitoring |
+| **Backend** | Python, FastAPI, Django REST Framework, Node.js, Express, Celery, Redis, JWT / OAuth2 |
+| **Cloud & DevOps** | AWS (EC2, Lambda, S3, CloudFront, ECR, DynamoDB), Azure, Docker, CI/CD |
+| **Databases** | PostgreSQL, MongoDB, MySQL, DynamoDB |
+| **Frontend** | React, Next.js, Tailwind CSS, JavaScript |
+| **Integrations** | SharePoint, Confluence, Outlook, Stripe, Razorpay, Twilio, SendGrid |
+| **Data & BI** | Pandas, NumPy, Matplotlib, Power BI, Tableau |
+
+</details>
+
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>🤖 This section updates itself every day using a GitHub Action.</sub>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ms7199&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-</div>
 
-<div align="center">
-  <h3>🌟 "Innovation distinguishes between a leader and a follower" 🌟</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Let's build the future of AI together!</b></em>
-</div>
+**Building something with LLMs? Let's talk.** 📫 guptamayank7199@gmail.com
 
----
+<img src="https://komarev.com/ghpvc/?username=ms7199&label=Profile%20views&color=0e75b6&style=flat-square" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Thanks+for+visiting!+🚀;Let's+connect+and+collaborate!+✨;Building+AI+solutions+daily!+🤖" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%"/>
+
 </div>
