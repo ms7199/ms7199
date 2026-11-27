@@ -103,8 +103,8 @@ flowchart LR
 
 ## Stack
 
-![Python, FastAPI, Django, PyTorch, TensorFlow, scikit-learn, AWS, Azure, Docker, PostgreSQL, MongoDB, Redis, Node.js, React, Next.js](https://skillicons.dev/icons?i=py,fastapi,django,pytorch,tensorflow,sklearn,aws,azure,docker,postgres,mongodb,redis,nodejs,react,nextjs&theme=light&perline=15#gh-light-mode-only)
-![Python, FastAPI, Django, PyTorch, TensorFlow, scikit-learn, AWS, Azure, Docker, PostgreSQL, MongoDB, Redis, Node.js, React, Next.js](https://skillicons.dev/icons?i=py,fastapi,django,pytorch,tensorflow,sklearn,aws,azure,docker,postgres,mongodb,redis,nodejs,react,nextjs&theme=dark&perline=15#gh-dark-mode-only)
+![Python, FastAPI, Django, PyTorch, TensorFlow, scikit-learn, AWS, Azure, Docker, PostgreSQL, MongoDB, Redis, Node.js, React, Next.js](assets/stack-light.svg#gh-light-mode-only)
+![Python, FastAPI, Django, PyTorch, TensorFlow, scikit-learn, AWS, Azure, Docker, PostgreSQL, MongoDB, Redis, Node.js, React, Next.js](assets/stack-dark.svg#gh-dark-mode-only)
 
 | Area | Tools |
 |---|---|
